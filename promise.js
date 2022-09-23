@@ -1,5 +1,6 @@
 const { promiseTheaterIXX, promiseTheaterVGC } = require("./external.js");
 
+// 7th try
 const promiseOutput = emosi => {
   let hasilMarah = 0
   let hasilTidakMarah = 0
