@@ -1,6 +1,5 @@
 const { promiseTheaterIXX, promiseTheaterVGC } = require("./external.js");
 
-// TODO: Buat fungsi promiseOutput sesuai ketentuan readme
 const promiseOutput = emosi => {
   let hasilMarah = 0
   let hasilTidakMarah = 0
